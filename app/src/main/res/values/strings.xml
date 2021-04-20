@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BeatAppTest</string>
+    <string name="metronomeHint">Metronome</string>
+    <string name="beatHint">Beat</string>
+    <string name="startBtnText">Start</string>
+    <string name="stopBtnText">Stop</string>
+    <string name="tempoHint">Tempo</string>
+</resources>
